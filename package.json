@@ -1,0 +1,27 @@
+{
+  "name": "plugin-slug",
+  "version": "x.x.x",
+  "main": "plugin-slug",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/plugin-slug"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "bugs": {
+    "url": "https://github.com/username/plugin-slug/issues"
+  },
+  "author": "Bruce Wayne",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-phpcs": "^0.4.0",
+    "grunt-wp-i18n": "^1.0.0",
+    "grunt-wp-readme-to-markdown": "^2.0.1"
+  },
+  "dependencies": {}
+}
