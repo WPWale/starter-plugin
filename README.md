@@ -4,6 +4,17 @@ Contains no functionality related code
 
 Contains utilities and configuration for utilities.
 
+## Usage
+ 
+If `{Plugin Name}` and `{plugin-slug}` are the name and slug of the plugin respectively,
+
+ 1. Clone this repository `git clone git@github.com:BaapWP/starter-plugin.git plugin-slug`
+ 1. Rename `plugin-slug.php` to `{plugin-slug}.php`.
+ 1. Find `PLUGIN_SLUG` and replace with `{PLUGIN_SLUG}` for constants
+ 1. Find `plugin-slug` and replace with `{plugin-slug}` for text-domain and such
+ 1. Find `Plugin Name` and replace with `{Plugin Name}` for plugin header and Readme.txt
+ 1. Start coding
+
 ## Utilities
 
 ### Deployment Scripts
