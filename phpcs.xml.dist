@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="Theme Structure Visualiser Ruleset">
-	<description>Coding Standard Rules for Theme Structure Visualiser project</description>
+<ruleset name="Plugin Name Ruleset">
+	<description>Coding Standard Rules for Plugin Name project</description>
 
 	<!-- Exclude the Node Modules directory. -->
 	<exclude-pattern>/node_modules/*</exclude-pattern>
