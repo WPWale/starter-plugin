@@ -9,7 +9,7 @@
  * a function that starts the plugin.
  *
  * @since             0.0.1
- * @package           theme_structure_visualiser
+ * @package           plugin_slug
  *
  * @wordpress-plugin
  * 
